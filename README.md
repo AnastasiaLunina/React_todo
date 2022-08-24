@@ -2,7 +2,7 @@
 
 [⭐ See live](https://al-react-todolist.netlify.app/)
 
-<img src="./src/img/Screen Shot 2022-08-23 at 11.33.50 PM.png">
+<img src="./src/img/Screen Shot 2022-08-23 at 11.33.50 PM.png" width=300px height="170px">
 
 <hr> 
 
