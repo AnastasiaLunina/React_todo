@@ -1,0 +1,20 @@
+.heading {
+    padding: 25px;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: white;
+    background-image: linear-gradient(45deg, pink 0%, #fad0c4 99%, #fad0c4 100%);
+}
+
+.btn-head {
+    border: none;
+    cursor:auto;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.icons {
+    display: flex;
+}

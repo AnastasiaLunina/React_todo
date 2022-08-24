@@ -1,0 +1,14 @@
+.app {
+    margin: 50px auto;
+    max-width: 1000px;
+}
+
+@media(max-width:640px) {
+    .app {
+        max-width: 600px;
+        margin: 50px;
+
+    }
+  }
+
+
