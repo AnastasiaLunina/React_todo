@@ -12,3 +12,39 @@
     width: 350px;
     margin-right: 20px;
 }
+
+@media (min-width: 400px) and (max-width: 599px) {
+    .list-group-item span {
+        min-width: 150px;
+    }
+
+    .icons {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .app-add-form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .add-form {
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+    }
+
+    .add-form input {
+        width: 200px;
+    }
+
+    .form-control {
+        margin-top: 10px;
+    }
+
+    .btn {
+        margin-top: 10px;
+    }
+
+    
+}
